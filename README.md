@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PietroJomini/haku/master/docs/logo.jpg" alt="haku"/>
+  <img src="https://raw.githubusercontent.com/BananiInFiore/haku/master/docs/logo.jpg" alt="haku"/>
 </p>
 
 <h1 align="center">haku</h1>
